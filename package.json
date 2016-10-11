@@ -1,0 +1,8 @@
+{
+  "name": "react-native-scroll-block-view",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.35.0"
+  }
+}
