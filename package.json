@@ -1,9 +1,9 @@
 {
-    "name": "react-native-scroll-block-view",
-    "version": "0.0.2",
-    "keywords": [
-        "react-native",
-        "native-modules"
-    ],
-    "license": "MIT"
+  "name": "react-native-scroll-block-view",
+  "version": "0.0.3",
+  "keywords": [
+    "react-native",
+    "native-modules"
+  ],
+  "license": "MIT"
 }
