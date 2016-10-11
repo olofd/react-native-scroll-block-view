@@ -10,8 +10,8 @@ Do an `npm i react-native-scroll-block-view --save` the run `react-native link r
 
 import ScrollBlockView from 'react-native-scroll-block-view';
 
-//This scrollview won't recive touch-events from the inner scrollview
 ~~~~
+//This scrollview won't recive touch-events from the inner scrollview
 <ScrollView>
     <ScrollBlockView>
         //This scrollview's toch-events wont bubble past the blocker
