@@ -3,7 +3,7 @@ import { requireNativeComponent } from 'react-native';
 
 export default class ScrollBlockView extends React.Component {
   render() {
-    return <RCTBlockView {...this.props} />;
+    return <RCTScrollBlockView {...this.props} />;
   }
 }
 

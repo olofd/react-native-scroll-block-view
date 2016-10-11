@@ -6,7 +6,7 @@ and to develop it further. React Native still does not natively support this
 
 ## Installation
 
-Do an `npm i react-native-scroll-block-view --save` the run `react-native link`
+Do an `npm i react-native-scroll-block-view --save` the run `react-native link react-native-scroll-block-view`
 
 
 Original repo readme:
