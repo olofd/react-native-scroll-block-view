@@ -5,7 +5,7 @@
 @interface RCTScrollBlockViewManager: RCTViewManager
 @end
 
-@implementation RCTBlockViewManager
+@implementation RCTScrollBlockViewManager
 
 RCT_EXPORT_MODULE()
 
