@@ -8,6 +8,16 @@ and to develop it further. React Native still does not natively support this
 
 Do an `npm i react-native-scroll-block-view --save` the run `react-native link react-native-scroll-block-view`
 
+import ScrollBlockView from 'react-native-scroll-block-view';
+
+//This scrollview won't recive touch-events from the inner scrollview
+<ScrollView>
+    <ScrollBlockView>
+        //This scrollview's toch-events wont bubble past the blocker
+        <ScrollView></ScrollView>
+    </ScrollBlockView>
+</ScrollView>
+
 
 Original repo readme:
 
