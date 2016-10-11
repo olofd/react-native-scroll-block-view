@@ -1,6 +1,7 @@
 {
   "name": "react-native-scroll-block-view",
   "version": "0.0.6",
+  "nativePackage": true,
   "keywords": [
     "react-native",
     "native-modules"
