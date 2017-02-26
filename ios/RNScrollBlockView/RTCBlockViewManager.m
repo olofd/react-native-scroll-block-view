@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "ScrollBlockView.h"
-#import "RCTViewManager.h"
+#import <React/RCTViewManager.h>
 
 @interface RCTScrollBlockViewManager: RCTViewManager
 @end
