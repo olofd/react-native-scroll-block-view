@@ -6,5 +6,13 @@
     "react-native",
     "native-modules"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "main": "./index.ios.js",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
 }
